@@ -6,4 +6,4 @@ This is a "Github Battle App". Enter in two Github usernames, and it will declar
 
 ![Alt Text](https://github.com/mity-shantiranjan/github-battle/blob/master/github-battle.png)
 
-Note: This application was developed as a curricullam of React fundamentals course at https://tylermcginnis.com/.
+Note: This application was developed as a curriculum of React fundamentals course at https://tylermcginnis.com/.
